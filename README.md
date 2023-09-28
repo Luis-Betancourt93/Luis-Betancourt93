@@ -62,7 +62,7 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
   </a>
       </p>
       <p align='center'>Built with: <strong>Ejs, JavaScript, TailwindCSS, Express.js, Node.js, MongoDB </strong></p>
-      <p align='center'>Discription: Help solar technicians efficiently manage their daily workload</p>
+      <p align='center'>Discription: Helps solar technicians efficiently manage their daily workload.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Weather App</h3>
