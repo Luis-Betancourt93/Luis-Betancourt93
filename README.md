@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNlMHlsYWV1dHgwcWpia2FuZGRwcHIxam82eW9scTA5MWE4eWUydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VuKzawL7yywkcMrrRU/giphy.gif" width="100%">
+<img src="https://imgur.com/4bIID5w.png" width="100%">
 
 <p align="center">
   <a href="https://luis-betancourt.netlify.app/" target="_blank">
