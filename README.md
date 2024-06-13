@@ -62,26 +62,26 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
   </a>
       </p>
       <p align='center'>Built with: <strong>Ejs, JavaScript, TailwindCSS, Express.js, Node.js, MongoDB </strong></p>
-      <p align='center'>Discription: Helps solar technicians efficiently manage their daily workload.</p>
+      <p align='center'>Description: Helps solar technicians efficiently manage their daily workload.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Weather App</h3>
+      <h3 align="center">PokeVault</h3>
         <br />
-      <a target="_blank" href="https://weather-app-lb.netlify.app/">
-            <img src="https://media.giphy.com/media/JmDP7IyYHUdcj3V67n/giphy.gif" width="100%"  alt="Weather App"/>
+      <a target="_blank" href="https://pokemonvault.netlify.app/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwdnN6OTZxcjV6anVqd3Bua3JvcGZmdWhzM2Fndm1ubmNycWU0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0zu4s3TucrDDuLvihW/giphy.gif" width="100%"  alt="pokeVault"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Luis-Betancourt93/weather-app" target="_blank">
+  <a href="https://github.com/Luis-Betancourt93/Pokedex" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://weather-app-lb.netlify.app/" target="_blank">
+  <a href="https://pokemonvault.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-      <p align='center'>Built with: <strong>React, Html, CSS, JavaScript</strong></p>
-      <p align='center'>Discription: Provides users with accurate information about current and forecasted atmospheric conditions.</p>
+      <p align='center'>Built with: <strong>React, Html, Tailwind CSS, JavaScript</strong></p>
+      <p align='center'>Description: Provides users with accurate information about various Pokémon species. Users can search through all 1,025 Pokémon by name, ID, or in a random order. </p>
     </td>
   </tr>
   
@@ -102,7 +102,7 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
   </a>
       </p>
          <p align='center'>Built with: <strong>Html, CSS, TailwindCSS, JavaScript, Nasa API </strong></p>
-      <p align='center'>Discription: This website offers daily access to stunning images of our universe.</p>
+      <p align='center'>Description: This website offers daily access to stunning images of our universe.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Precious Metal Price Calculator</h3>
