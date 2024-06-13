@@ -48,7 +48,7 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
     <td width="50%" valign="top">
       <h3 align="center">Solar Tracker</h3>
         <br />
-        <a target="_blank" href="https://solar-business.cyclic.app/">
+        <a  href="https://solar-tracker.onrender.com/" target="_blank">
             <img src="https://media.giphy.com/media/I35wbWZMetCC64DCUF/giphy.gif" width="100%" alt="Solar App"/>
         </a>
         <br />
