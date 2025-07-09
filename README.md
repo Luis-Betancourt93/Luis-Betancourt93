@@ -46,6 +46,25 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">On The Grid</h3>
+        <br />
+        <a  href="https://onthegrid.netlify.app/login" target="_blank">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dmeHJzanVrbHM3bHZlMGZndWtnMmQzcXJscjhkYTU4NGp1dmo3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4o9X4rtTKoWqvklk6/giphy.gif" width="100%" alt="Solar App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Luis-Betancourt93/OnTheGrid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://solar-tracker.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+      <p align='center'>Built with: <strong>React, Tailwind CSS, Appwrite, Node.js, and Playwright for E2E testing.</strong></p>
+      <p align='center'>Description:A CRM that helps users manage their contacts. Users can log in, add new people, and track whether they've had a conversation. It’s designed to be simple, fast, and focused on essential features.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Solar Tracker</h3>
         <br />
         <a  href="https://solar-tracker.onrender.com/" target="_blank">
@@ -64,7 +83,11 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
       <p align='center'>Built with: <strong>Ejs, JavaScript, TailwindCSS, Express.js, Node.js, MongoDB </strong></p>
       <p align='center'>Description:(45sec Startup) Helps solar technicians efficiently manage their daily workload.</p>
     </td>
-    <td width="50%" valign="top">
+    
+  </tr>
+  
+  <tr>
+     <td width="50%" valign="top">
       <h3 align="center">PokeVault</h3>
         <br />
       <a target="_blank" href="https://pokemonvault.netlify.app/">
@@ -83,9 +106,6 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
       <p align='center'>Built with: <strong>React, Html, Tailwind CSS, JavaScript</strong></p>
       <p align='center'>Description: Provides users with accurate information about various Pokémon species. Users can search through all 1,025 Pokémon by name, ID, or in a random order. </p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Nasa Star Gazers Society</h3>
       <br />
@@ -104,25 +124,8 @@ I'm a Fullstack Software Engineer driven by the excitement of tackling new chall
          <p align='center'>Built with: <strong>Html, CSS, TailwindCSS, JavaScript, Nasa API </strong></p>
       <p align='center'>Description: This website offers daily access to stunning images of our universe.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Precious Metal Price Calculator</h3>
-        <br />
-        <a target="_blank" href="https://minerals-premium-calculator.netlify.app/">
-          <img src="https://media.giphy.com/media/GWhKoVl44iSdyB7nm8/giphy.gif" width="100%" alt="Precious Metal Calculator"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Luis-Betancourt93/Precious-Metal-Calculator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://minerals-premium-calculator.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align='center'>Built with: <strong>Html, CSS, JavaScript </strong></p>
-      <p align='center'>Discription: This Price Analysis Calculator is an online tool designed to help consumers analyze their shopping purchase.</p>
-    </td>
+   
+    
   </tr>
 </table>
 
