@@ -1,4 +1,4 @@
-<img src="https://imgur.com/4bIID5w.png" width="100%">
+<img src="https://imgur.com/TVQoHri.png" width="100%">
 
 <p align="center">
   <a href="https://luis-betancourt.netlify.app/" target="_blank">
