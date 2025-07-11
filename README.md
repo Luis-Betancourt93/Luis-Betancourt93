@@ -1,44 +1,71 @@
-<img src="https://imgur.com/TVQoHri.png" width="100%">
+<img src="https://imgur.com/xIDjh0V.png" width="100%">
 
 <p align="center">
-  <a href="https://luis-betancourt.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=23555f&style=plastic&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luis-betancourt-8a216315b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/Luis__Codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://wellfound.com/u/luis-betancourt-3" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=Wellfound&color=23555f&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://luis-betancourt.netlify.app/assets/Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=23555f&style=plastic&logo-color=white"/>
-  </a>
+  <a href="https://luis-betancourt.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-Visit-gray?style=for-the-badge&logo=netlify"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/luis-betancourt-8a216315b/"><img src="https://img.shields.io/badge/LINKED--IN-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  &nbsp;
+  <a href="https://twitter.com/Luis__Codes"><img src="https://img.shields.io/badge/TWITTER-Follow-blue?style=for-the-badge&logo=twitter"/></a>
+  &nbsp;
+  <a href="https://wellfound.com/u/luis-betancourt-3"><img src="https://img.shields.io/badge/WELLFOUND-Explore-gray?style=for-the-badge&logo=angellist"/></a>
+  &nbsp;
+  <a href="https://luis-betancourt.netlify.app/assets/Resume.pdf"><img src="https://img.shields.io/badge/RESUME-Download-green?style=for-the-badge&logo=adobe"/></a>
 </p>
+ 
+ 
+ ## 👋 Hello, I'M LUIS!
 
-I'm a Fullstack Software Engineer driven by the excitement of tackling new challenges and contributing my skills to the evolution of innovative projects.
+**Creative Full Stack Developer & QA Enthusiast**  
 
-<p>Please see <a href="https://luis-betancourt.netlify.app/">my website</a> for more information!</p>
+I’m a passionate developer who enjoys building powerful apps with clean UIs, dynamic frontends, and well-tested backends. From building CRMs and scraping news to implementing **Playwright E2E tests**.
+
+- 🌱 Constantly learning, building, and testing.
+- 🛠 Working with: React.js, Tailwind CSS, Appwrite, Node.js, MongoDB, Playwright, and more.
+- ⚙️ I document, I test, I debug — clean code is my love language.
+- 💡 Former solar tech turned engineer — I know the grind and the value of resilience.
+- 📄 [View my resume](https://luis-betancourt.netlify.app/assets/Resume.pdf)
+- 🌐 [Check out my portfolio](https://luis-betancourt.netlify.app)
+
+---
 
 <h1 align="center">Technologies</h1>
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" style="margin-right:15px;" alt="Adobe"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="margin-right:15px;"/>
+  
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="50" style="margin-right:15px;" alt="Playwright"/>
+  
+</p>
+
+</p>
+
+  
 </p>
 
 <h1 align="center">Projects</h1>
