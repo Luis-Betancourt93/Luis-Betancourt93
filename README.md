@@ -84,7 +84,7 @@ I’m a passionate developer who enjoys building powerful apps with clean UIs, d
   <a href="https://github.com/Luis-Betancourt93/OnTheGrid" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://solar-tracker.onrender.com/" target="_blank">
+  <a href="https://onthegrid.netlify.app/login" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
