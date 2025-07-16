@@ -23,7 +23,7 @@ I’m a passionate developer who enjoys building powerful apps with clean UIs, d
 - 🛠 Working with: React.js, Tailwind CSS, Appwrite, Node.js, MongoDB, Playwright, and more.
 - ⚙️ I document, I test, I debug — clean code is my love language.
 - 💡 Former solar tech turned engineer — I know the grind and the value of resilience.
-- 📄 [View my resume](https://luis-betancourt.netlify.app/assets/Resume.pdf)
+- <a href="Luis Resume.pdf" download>📄 Download My Resume</a>
 - 🌐 [Check out my portfolio](https://luis-betancourt.netlify.app)
 
 ---
@@ -89,7 +89,7 @@ I’m a passionate developer who enjoys building powerful apps with clean UIs, d
   </a>
       </p>
       <p align='center'>Built with: <strong>React, Tailwind CSS, Appwrite, Node.js, and Playwright for E2E testing.</strong></p>
-      <p align='center'>Description:A CRM that helps users manage their contacts. Users can log in, add new people, and track whether they've had a conversation. It’s designed to be simple, fast, and focused on essential features.</p>
+      <p align='center'>Description: A CRM that helps users manage their contacts. Users can log in, add new people, and track whether they've had a conversation. It’s designed to be simple, fast, and focused on essential features.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Solar Tracker</h3>
@@ -108,7 +108,7 @@ I’m a passionate developer who enjoys building powerful apps with clean UIs, d
   </a>
       </p>
       <p align='center'>Built with: <strong>Ejs, JavaScript, TailwindCSS, Express.js, Node.js, MongoDB </strong></p>
-      <p align='center'>Description:(45sec Startup) Helps solar technicians efficiently manage their daily workload.</p>
+      <p align='center'>Description: (45sec Startup) Helps solar technicians efficiently manage their daily workload.</p>
     </td>
     
   </tr>
