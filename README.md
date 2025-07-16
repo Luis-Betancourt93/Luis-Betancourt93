@@ -9,7 +9,7 @@
   &nbsp;
   <a href="https://wellfound.com/u/luis-betancourt-3"><img src="https://img.shields.io/badge/WELLFOUND-Explore-gray?style=for-the-badge&logo=angellist"/></a>
   &nbsp;
-  <a href="https://luis-betancourt.netlify.app/assets/Resume.pdf"><img src="https://img.shields.io/badge/RESUME-Download-green?style=for-the-badge&logo=adobe"/></a>
+  <a href="https://luis-betancourt.netlify.app/assets/LuisResume.pdf"><img src="https://img.shields.io/badge/RESUME-Download-green?style=for-the-badge&logo=adobe"/></a>
 </p>
  
  
